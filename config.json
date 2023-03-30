@@ -1,0 +1,25 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Vite Theme Night",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "terminal.integrated.fontSize": 16,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Dank mono",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "vite.autoStart": false,
+    "extensions.ignoreRecommendations": true,
+    "editor.accessibilitySupport": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": false,
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true
+    }
+}
